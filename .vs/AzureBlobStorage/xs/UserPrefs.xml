@@ -3,7 +3,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AzureBlobStorage" expanded="True" selected="True">
+          <Node name="AzureBlobStorage" expanded="True">
             <Node name="AzureBlobStorage" expanded="True" />
           </Node>
         </State>
